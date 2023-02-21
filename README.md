@@ -1,6 +1,7 @@
 # Recommendation-with-IBM
 
 ## Libraries
+python 3.7.1 pandas numpy matplotlib sklearn 
 
 ## OverView
 I. Exploratory Data Analysis
