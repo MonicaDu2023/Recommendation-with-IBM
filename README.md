@@ -20,7 +20,7 @@ IV. Content Based Recommendations
 
 Given the amount of content available for each article, there are a number of different ways in which someone might choose to implement a content based recommendations system. Using NLP skills, we can come up with some extremely creative ways to develop a content based recommendation system.
 
-V. Modelling
+V. User-Item Based Collaborative Filtering
 
 Finally, I will implemented deep learning models such as FunkSVD and DeepFM to improve the accuracy of the recommendations and trained the models on the user-item interaction matrix.
 
