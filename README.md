@@ -1,7 +1,7 @@
 # Recommendation-with-IBM
 
 ## Libraries
-python 3.7.1 pandas numpy matplotlib sklearn 
+python 3.7.1 pandas numpy matplotlib sklearn pytorch
 
 ## OverView
 I. Exploratory Data Analysis
@@ -25,4 +25,4 @@ V. Matrix Factorization
 Finally, you will complete a machine learning approach to building recommendations. Using the user-item interactions, you will build out a matrix decomposition. Using your decomposition, you will get an idea of how well you can predict new articles an individual might interact with (spoiler alert - it isn't great). You will finally discuss which methods you might use moving forward, and how you might test how well your recommendations are working for engaging users.
 
 ## Acknowledgements
-I wish to thank [IBM Watson Studio](https://dataplatform.cloud.ibm.com/login) platform for dataset, and thank Udacity for advice and review.
+I wish to thank [IBM Watson Studio](https://dataplatform.cloud.ibm.com/login) platform for dataset.
